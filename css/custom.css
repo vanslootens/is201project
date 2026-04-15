@@ -1,0 +1,36 @@
+/* 1 - Body: font family + color */
+body {
+    font-family: 'Open Sans', sans-serif !important;
+    color: black;
+}
+
+/* 2 - Headings: font family + color */
+h1 {
+    font-family: 'Roboto', sans-serif !important;
+    color: whitesmoke;
+}
+
+h2, h3 {
+    font-family: 'Roboto', serif !important;
+    color: black;
+}
+
+/* 3 - Links: font color */
+a {
+    color: #0764b5;
+}
+
+a:hover {
+    color: #0764b5;
+}
+
+h2:hover{
+    color: #0764b5;
+}
+
+/* 4 - Footer: font color + font family */
+footer {
+    font-family: 'Roboto', sans-serif;
+    color: #6c757d;
+    padding: 30px 0;
+}
